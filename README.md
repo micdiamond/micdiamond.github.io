@@ -24,21 +24,20 @@ LaTeX is especially powerful when it comes to using code to elegantly render com
 
 This is an example of a function that generates the output
 
-```LaTeX
-
+```latex
 \newcommand{\4}{{ \circled{ $\downarrow$ 4 } } }
 
 ```
 
 Then to generate the tableture you call the function 
 
-```LaTeX
+```latex
 \4
 ```
 
 Here is a more complex example. Warble, a technique unique to the harmonica, is a rapid alternation between two adjacent holes. This segment is a testament to the intricacies of harmonica notation, showcasing a bend that transitions into a warble. 
 
-```
+```latex
 \newcommand{\bendintowarble}
 {
     {
@@ -58,7 +57,7 @@ Here is a more complex example. Warble, a technique unique to the harmonica, is 
 ```
 
 Then to generate this complex tableture you call the function 
-```LaTeX
+```latex
 \bendintowarble
 ```
 
@@ -80,7 +79,7 @@ Here's a brief breakdown of this system:
 1. In the main file, activate the command `\input{0_latex_control_flow/2_book_control_flow.tex}`.
 2.  Within the book control flow, the appropriate mini-modules will be called. For example:
 
-```
+```latex
 \newpage
 \import{0.1_active_lessons_modules/2Rhythm/}{1FunkyRhythm}
 
