@@ -24,9 +24,10 @@ LaTeX is especially powerful when it comes to using code to elegantly render com
 
 This is an example of a function that generates the output
 
-```latex
+```
+{% raw %}
 \newcommand{\4}{{ \circled{ $\downarrow$ 4 } } }
-
+{% endraw %}
 ```
 
 Then to generate the tableture you call the function 
