@@ -1,6 +1,6 @@
 # Welcome to My Blog
 
-Here I will provide an overview of some of programming and data science projects, and share some of my accomplishments in Psychological, Statistics, and Research Methods.
+Here I will provide an overview of some of my programming and data science projects, and share some of my accomplishments in Psychological, Statistics, and Research Methods.
 
 ## High-Quality Harmonica Tablature Notation Using LaTeX: An Exploration of Code and Design
 

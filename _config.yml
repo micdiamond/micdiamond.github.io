@@ -1,23 +1,14 @@
 # theme: jekyll-theme-cayman
-# title: this is a title
-# description: this is a description
-
-# # Jekyll 3 now only supports Kramdown for Markdown
-# kramdown:
-#     # Use GitHub flavored markdown, including triple backtick fenced code blocks
-#     input: GFM
-#     # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-#     syntax_highlighter: rouge
-#     syntax_highlighter_opts:
-#         # Use existing pygments syntax highlighting css
-#         css_class: 'highlight'
+# title: My Data Science Portfolio
+# description: Here are some of my key data science projects and notable accomplishments
 
 # Theme configuration
 theme: beautiful-jekyll
 
 # Basic settings
-title: this is a title
-description: this is a description
+title: My Data Science Portfolio
+description: Here are some of my key data science projects and notable accomplishments
+
 
 # Kramdown settings
 kramdown:
